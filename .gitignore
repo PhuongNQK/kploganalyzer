@@ -1,0 +1,12 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+*.suo
+/Kp.Tools.LogAnalyzer.Common/bin/Debug
+/Kp.Tools.LogAnalyzer.Common/obj/Debug
+/Kp.Tools.LogAnalyzer.WinApp/bin/Debug
+/Kp.Tools.LogAnalyzer.WinApp/obj/x86/Debug
+/packages
+/Tests.Kp.Tools.LogAnalyzer.Common/bin/Debug
+/Tests.Kp.Tools.LogAnalyzer.Common/obj/Debug

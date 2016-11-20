@@ -1,0 +1,71 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kp.Tools.LogAnalyzer.WinApp", "Kp.Tools.LogAnalyzer.WinApp\Kp.Tools.LogAnalyzer.WinApp.csproj", "{7E68DEDE-05FE-4D89-8B98-B4FC77ABABAF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kp.Tools.LogAnalyzer.Common", "Kp.Tools.LogAnalyzer.Common\Kp.Tools.LogAnalyzer.Common.csproj", "{8EE25249-733B-4405-884C-9C25C492F6D6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tests.Kp.Tools.LogAnalyzer.Common", "Tests.Kp.Tools.LogAnalyzer.Common\Tests.Kp.Tools.LogAnalyzer.Common.csproj", "{302FECD2-388F-4811-A535-49739C0B082D}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{468B0B2E-3407-4A1E-A050-8DC75C416A23}"
+	ProjectSection(SolutionItems) = preProject
+		Local.testsettings = Local.testsettings
+		Log Analyzer.vsmdi = Log Analyzer.vsmdi
+		TraceAndTestImpact.testsettings = TraceAndTestImpact.testsettings
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Tests", "Tests", "{185686CF-A8A9-4E08-8865-46E0BD46DE22}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|Mixed Platforms = Debug|Mixed Platforms
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|Mixed Platforms = Release|Mixed Platforms
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7E68DEDE-05FE-4D89-8B98-B4FC77ABABAF}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{7E68DEDE-05FE-4D89-8B98-B4FC77ABABAF}.Debug|Mixed Platforms.ActiveCfg = Debug|x86
+		{7E68DEDE-05FE-4D89-8B98-B4FC77ABABAF}.Debug|Mixed Platforms.Build.0 = Debug|x86
+		{7E68DEDE-05FE-4D89-8B98-B4FC77ABABAF}.Debug|x86.ActiveCfg = Debug|x86
+		{7E68DEDE-05FE-4D89-8B98-B4FC77ABABAF}.Debug|x86.Build.0 = Debug|x86
+		{7E68DEDE-05FE-4D89-8B98-B4FC77ABABAF}.Release|Any CPU.ActiveCfg = Release|x86
+		{7E68DEDE-05FE-4D89-8B98-B4FC77ABABAF}.Release|Mixed Platforms.ActiveCfg = Release|x86
+		{7E68DEDE-05FE-4D89-8B98-B4FC77ABABAF}.Release|Mixed Platforms.Build.0 = Release|x86
+		{7E68DEDE-05FE-4D89-8B98-B4FC77ABABAF}.Release|x86.ActiveCfg = Release|x86
+		{7E68DEDE-05FE-4D89-8B98-B4FC77ABABAF}.Release|x86.Build.0 = Release|x86
+		{8EE25249-733B-4405-884C-9C25C492F6D6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8EE25249-733B-4405-884C-9C25C492F6D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8EE25249-733B-4405-884C-9C25C492F6D6}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{8EE25249-733B-4405-884C-9C25C492F6D6}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
+		{8EE25249-733B-4405-884C-9C25C492F6D6}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{8EE25249-733B-4405-884C-9C25C492F6D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8EE25249-733B-4405-884C-9C25C492F6D6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8EE25249-733B-4405-884C-9C25C492F6D6}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{8EE25249-733B-4405-884C-9C25C492F6D6}.Release|Mixed Platforms.Build.0 = Release|Any CPU
+		{8EE25249-733B-4405-884C-9C25C492F6D6}.Release|x86.ActiveCfg = Release|Any CPU
+		{302FECD2-388F-4811-A535-49739C0B082D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{302FECD2-388F-4811-A535-49739C0B082D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{302FECD2-388F-4811-A535-49739C0B082D}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{302FECD2-388F-4811-A535-49739C0B082D}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
+		{302FECD2-388F-4811-A535-49739C0B082D}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{302FECD2-388F-4811-A535-49739C0B082D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{302FECD2-388F-4811-A535-49739C0B082D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{302FECD2-388F-4811-A535-49739C0B082D}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{302FECD2-388F-4811-A535-49739C0B082D}.Release|Mixed Platforms.Build.0 = Release|Any CPU
+		{302FECD2-388F-4811-A535-49739C0B082D}.Release|x86.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{302FECD2-388F-4811-A535-49739C0B082D} = {185686CF-A8A9-4E08-8865-46E0BD46DE22}
+	EndGlobalSection
+	GlobalSection(TestCaseManagementSettings) = postSolution
+		CategoryFile = Log Analyzer.vsmdi
+	EndGlobalSection
+EndGlobal
