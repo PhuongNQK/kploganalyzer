@@ -37,5 +37,15 @@ So, as you can guess, basic features of Log Analyzer will be:
 Besides, there are a few more useful advanced features. For example, you can:
 - Choose the display font for Grid and Details Views.
 - Copy selected items to clipboard
+- Help is not available for all UI elements. But if there is, you can hover to see the help. For example, you can try hovering the Exclusive checkboxes to know what they are meant for.
 
-I know there can be many cool features to add, but that is a good-enough start. Try it and enjoy :)!
+I know there can be many cool features to add, but that is a good-enough start. Try it :)!
+
+# SYSTEM REQUIREMENTS
+To work with the code, you need 
+- Visual Studio 2010 or later
+- .NET Framework 4.0
+To run the release (e.g. the one here https://github.com/PhuongNQK/releases/blob/master/KP-Log-Analyzer-1.0.zip), you need
+- .NET Framework 4.0 Client Profile
+
+Enjoy :)!
