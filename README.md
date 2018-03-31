@@ -45,6 +45,7 @@ I know there can be many cool features to add, but that is a good-enough start. 
 To work with the code, you need 
 - Visual Studio 2010 or later
 - .NET Framework 4.0
+
 To run the release (e.g. the one here https://github.com/PhuongNQK/releases/blob/master/KP-Log-Analyzer-1.0.zip), you need
 - .NET Framework 4.0 Client Profile
 
